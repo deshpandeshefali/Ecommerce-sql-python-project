@@ -1,3 +1,5 @@
+# E-commerce Sales Analysis using SQL and Python
+
 ## Description :
 
 This project analyzes e-commerce sales data using SQL and Python. Data from six CSV files was imported into MySQL, and queries were written to explore customer behavior, product performance, and sales trends. Python was used for executing SQL queries, data processing, and creating visualizations. The project covers basic to advanced analysis, including revenue trends, customer retention, and category-wise sales insights, helping uncover data-driven business decisions.
